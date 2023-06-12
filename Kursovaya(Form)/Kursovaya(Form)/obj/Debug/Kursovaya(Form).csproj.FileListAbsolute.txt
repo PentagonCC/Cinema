@@ -1,0 +1,11 @@
+C:\Users\iv-ni\OneDrive\Рабочий стол\Programming\Kursovaya(Form)\Kursovaya(Form)\bin\Debug\Kursovaya(Form).exe.config
+C:\Users\iv-ni\OneDrive\Рабочий стол\Programming\Kursovaya(Form)\Kursovaya(Form)\bin\Debug\Kursovaya(Form).exe
+C:\Users\iv-ni\OneDrive\Рабочий стол\Programming\Kursovaya(Form)\Kursovaya(Form)\bin\Debug\Kursovaya(Form).pdb
+C:\Users\iv-ni\OneDrive\Рабочий стол\Programming\Kursovaya(Form)\Kursovaya(Form)\obj\Debug\Kursovaya(Form).csproj.AssemblyReference.cache
+C:\Users\iv-ni\OneDrive\Рабочий стол\Programming\Kursovaya(Form)\Kursovaya(Form)\obj\Debug\Kursovaya(Form).csproj.SuggestedBindingRedirects.cache
+C:\Users\iv-ni\OneDrive\Рабочий стол\Programming\Kursovaya(Form)\Kursovaya(Form)\obj\Debug\Kursovaya_Form_.Form1.resources
+C:\Users\iv-ni\OneDrive\Рабочий стол\Programming\Kursovaya(Form)\Kursovaya(Form)\obj\Debug\Kursovaya_Form_.Properties.Resources.resources
+C:\Users\iv-ni\OneDrive\Рабочий стол\Programming\Kursovaya(Form)\Kursovaya(Form)\obj\Debug\Kursovaya(Form).csproj.GenerateResource.cache
+C:\Users\iv-ni\OneDrive\Рабочий стол\Programming\Kursovaya(Form)\Kursovaya(Form)\obj\Debug\Kursovaya(Form).csproj.CoreCompileInputs.cache
+C:\Users\iv-ni\OneDrive\Рабочий стол\Programming\Kursovaya(Form)\Kursovaya(Form)\obj\Debug\Kursovaya(Form).exe
+C:\Users\iv-ni\OneDrive\Рабочий стол\Programming\Kursovaya(Form)\Kursovaya(Form)\obj\Debug\Kursovaya(Form).pdb
